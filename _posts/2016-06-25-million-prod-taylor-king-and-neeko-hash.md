@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-25T23:16:09.362Z'
+datePublished: '2016-06-25T23:16:54.097Z'
 isBasedOnUrl: 'https://soundcloud.com/turo-sivirian/million'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: Turo Sivirian
     url: 'http://soundcloud.com/turo-sivirian'
     avatar: {}
-dateModified: '2016-06-25T23:16:05.825Z'
+dateModified: '2016-06-25T23:16:53.757Z'
 title: Million (Prod. Taylor King & Neeko Hash)
 app_links:
   - type: ios
@@ -54,8 +54,8 @@ publisher:
 description: >-
   2nd single from the "Feel Me?" EP Produced by: Taylor King Mixed/Mastered:
   Neeko hash Artwork: @shehatebiggal @turosivvy
-starred: false
 sourcePath: _posts/2016-06-25-million-prod-taylor-king-and-neeko-hash.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
