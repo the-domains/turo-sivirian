@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Turo Sivirian]]></title>
         <description><![CDATA[Turo Sivirian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/turo-sivirian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 23:13:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 23:14:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/turo-sivirian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SCARY (feat. Lou)]]></title>
+            <description><![CDATA[<article><h1>SCARY (feat. Lou)</h1><p>recorded nov '15</p></article>]]></description>
+            <link>https://soundcloud.com/turo-sivirian/scary</link>
+            <guid isPermaLink="false">b0bcdef4-acbf-443e-990b-b3afc39bec60</guid>
+            <pubDate>Sat, 25 Jun 2016 23:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thank God (Boomin)]]></title>
+            <description><![CDATA[<article><h1>Thank God (Boomin)</h1><p>you feel me? ig/twitter: @turosivvy</p></article>]]></description>
+            <link>https://soundcloud.com/turo-sivirian/thank-god</link>
+            <guid isPermaLink="false">fe23bdb4-380b-4877-bc0d-33f32d993ad5</guid>
+            <pubDate>Sat, 25 Jun 2016 23:14:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Only The Beginning]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F205957298%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fturo-sivirian%2Fonly-the-beginning&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000117141647-y4fjoa-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
