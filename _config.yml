@@ -1,15 +1,15 @@
-typography_spectrum: 0.40483978553675115
-color:
-  brandStrength: 0.26201264653354883
-  lightness: 0.22579710697755218
-  saturation: 0.9630529542919248
-  rhythmicContrast: 0.7312460967805237
-  brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
 layout_spectrum: 0.3463403591886163
+typography_spectrum: 0.6885865346994251
+color:
+  brandStrength: 0.2628441220149398
+  lightness: 0.06197916832752526
+  saturation: 0.31825635279528797
+  rhythmicContrast: 0.11076739220879972
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#953841'
+    - '#AF6967'
+    - '#D2D2D2'
 name: Turo Sivirian
 title: You Feel Me?
